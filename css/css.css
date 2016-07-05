@@ -1,0 +1,57 @@
+body {
+		background-image: url(../img/background.jpg);
+}
+
+@font-face {
+	font-family:Minecraft;
+	src:url(../font/minecraft.ttf);
+}
+
+#title {
+	color:#FFF;
+	font-family: Minecraft;
+	text-align: center;
+	font-size: 30px;
+}
+
+h1 {
+	font-family: Minecraft;
+}
+
+.BTN {
+  	cursor:pointer;
+}
+
+#Menu {
+	width: 80%;
+	background-color: #333;
+    height: 100%;
+	text-shadow: 1.4px 1.4px #44423e;
+    border-style: outset;
+    color: #fff;
+	text-decoration: none; 
+    outline:none; 
+	display:block;  
+	font-size: 140%;
+	border-radius: 2%;
+	border-color: #069;
+	left: 0;
+	font-weight:normal;
+}
+
+#EndLayout {
+	width: 80%;
+	background-color: #333;
+    height: 100%;
+	text-shadow: 1.4px 1.4px #44423e;
+    border-style: outset;
+    color: #fff;
+	text-decoration: none; 
+    outline:none; 
+	display:block;  
+	font-size: 140%;
+	border-radius: 2%;
+	border-color: #069;
+	left: 0;
+	font-weight:normal;
+}
